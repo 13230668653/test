@@ -1,3 +1,3 @@
 <? php
 
-phpinfor();
+phpinfor();sdada
